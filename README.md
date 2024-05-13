@@ -10,11 +10,8 @@ This is just a workaround to explore vite with react and tailwind.
 
 3. Run `npm run dev`
 
-This will start a server in http://localhost:5173
+This will start a server in http://localhost
 
-# Live preview
-
-Access to this link https://react-todo.lesalvucci.xyz
 
 # Screenshots
 
