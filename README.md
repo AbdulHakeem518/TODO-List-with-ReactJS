@@ -38,7 +38,6 @@ Access to this link https://react-todo.lesalvucci.xyz
 
 ![Screenshot](images/5.png)
 
-###### NEW
 
 ** Supercharge Your Productivity with a Blazing-Fast Todo App**
 
@@ -51,7 +50,7 @@ React for Dynamic UI: Craft an interactive and reactive user interface that seam
 Tailwind CSS for Effortless Styling: Apply beautiful and responsive design in a breeze with utility-first classes.
 ** Get Up and Running in Minutes**
 
-Clone the Repository: Quickly grab the code with git clone https://github.com/your-username/todo-app.git.
+Clone the Repository: Quickly grab the code with git clone [https://github.com/your-username/todo-app.git.](https://github.com/AbdulHakeem518/TODO-List-with-ReactJS)
 Install Dependencies: Power up the project with npm install.
 Launch Your Todo Haven: Start the development server with npm run dev and access it at http://localhost:5173.
 ** Take a Peek at the Action**
